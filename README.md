@@ -1,4 +1,6 @@
-# PsychologicalTest(심리테스트 개발 프로젝트)<br/>
+# Psychological Test
+> 성격 유형 테스트
+
 
 ![image](https://user-images.githubusercontent.com/113402301/201002903-5102ca46-95ee-4ff4-bf3c-ffd8e76c3b79.png)
 
